@@ -70,9 +70,6 @@ Model trained using:
 ## 🧪 How to Run Locally
 
 ```bash
-# Clone the repo
-git clone https://github.com/trenise25/credit-default-app.git
-cd credit-default-app
 
 # Install dependencies
 pip install -r requirements.txt
